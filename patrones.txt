@@ -1,0 +1,52 @@
+5 = 10 * ( b * d)
+c = 4 - ( b + d)
+a = a / ( b / d)
+
+suma = factorial / 10 
+2.7 + 3, cont = cont + 1  
+edad >= 5, suma != 0
+
+if semaforo == verde:
+    print "Cruzar la calle"
+else: 
+    print "Esperar"
+
+while anio <= 2012: 
+    print "Informes del AÃ±o", str(anio) 
+    anio += 1
+
+
+try:
+	pass
+except Exceptioneoreoer :
+	raise e
+
+import re
+# -*- coding: utf-8 -*-
+
+def isPrime(num):
+    if num < 1:
+        return False
+    elif num == 2:
+        return True
+    else:
+        for i in range(2, num):
+            if num % i == 0:
+                return False
+        return True            
+
+def app():
+    num = int(input('Write a number: '))
+    result = is(num)
+
+    if result = True:
+        print('The number is prime!!')
+    else:
+        print('The number is not prime!!')
+
+
+for letra in entrada:
+    if diccionario.has_key(letra):
+        diccionario[letra]=diccionario[letra]+1
+    else:
+        diccionario[letra]=1
